@@ -8,6 +8,9 @@ on:
 jobs:
   helloworld:
     runs-on: ubuntu-latest
+    container:
+      image: alpine:latest
+
 
     steps:
       - name: print hello
