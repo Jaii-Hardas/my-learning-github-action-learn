@@ -16,8 +16,6 @@ jobs:
       - name: print hello
         run: echo "chalo world !!" 
 
-        
-jobs:
   chaloworld:
     runs-on: ubuntu-latest
 
