@@ -13,7 +13,7 @@ jobs:
       - name: print hello
         run: echo "hello world !!"
 
-      - name: print hello
+      - name: print chalo
         run: echo "chalo world !!" 
 
   chaloworld:
@@ -23,7 +23,7 @@ jobs:
       - name: print hello
         run: echo "hello world !!"
 
-      - name: print hello
+      - name: print chalo
         run: echo "chalo world !!"
 
         
